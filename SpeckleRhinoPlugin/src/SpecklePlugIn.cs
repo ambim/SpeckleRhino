@@ -23,6 +23,8 @@ namespace SpeckleRhino
       SpeckleCore.LocalContext.Init();
     }
 
+    /// WN Edit
+
     ///<summary>Gets the only instance of the TestEtoWebkitPlugIn plug-in.</summary>
     public static SpecklePlugIn Instance
     {
